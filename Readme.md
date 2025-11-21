@@ -3,17 +3,6 @@
 This project explores the **Netflix Movies & TV Shows dataset** using SQL to derive meaningful insights about content distribution, genres, ratings, countries, and trends over time. It demonstrates the complete workflow of importing data, designing schema structures, writing analytical queries, and generating clear outcomes for business decisions.
 
 ---
-
-## 📁 Project Structure
-├── Schemas.sql # Table creation + schema design
-├── Problems Netflix.sql # 15 business questions
-├── Solutions of 12 problems.sql # SQL solutions to each question
-├── netflix_titles.csv # Original dataset
-└── README.md # Documentation
-
-
----
-
 ## 🎯 Project Objectives
 
 - Design a clean SQL schema for the Netflix dataset  
@@ -72,3 +61,4 @@ Examples include:
 **Author:** Abbas Imran  
 **Email:** abbasimranabdi009@gmail.com  
 **Location:** Lucknow, India  
+
